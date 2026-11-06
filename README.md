@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: Juan ManueL Rojas
+FULL_NAME: Juan Manuel Rojas Mora
 GITHUB_USER: jumarojas-2025a-jpg
 -->
 
